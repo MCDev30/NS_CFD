@@ -3,7 +3,7 @@
 
 ## Demo 
 
-<video src="./simulation.mp4" controls>
+<video src="simulation.mp4" controls>
     Your browser does not support the video tag.
 </video>
 
