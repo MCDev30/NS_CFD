@@ -3,9 +3,8 @@
 
 ## Demo 
 
-<video src="simulation.mp4" controls>
-    Your browser does not support the video tag.
-</video>
+![Demo](https://github.com/user/repo/blob/main/assets/demo.gif?raw=true)
+
 
 Don't hesitate to give us feedback if you have any.
 
