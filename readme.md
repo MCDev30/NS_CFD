@@ -3,7 +3,7 @@
 
 ## Demo 
 
-![Demo](https://github.com/user/repo/blob/main/assets/demo.gif?raw=true)
+![Demo](https://github.com/MCDev30/NS_CFD/blob/main/simulation-ezgif.com-crop.gif?raw=true)
 
 
 Don't hesitate to give us feedback if you have any.
